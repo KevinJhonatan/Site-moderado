@@ -191,7 +191,7 @@ body.corpo {
 
 .whatsapp-btn:hover {
   background: #1eb954;
-  radius: 50%;
+  border-radius: 50%;
 }
 
 /* 📱 Responsividade */
